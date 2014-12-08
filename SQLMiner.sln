@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsQuery", "SQLMiner\JsQuery.csproj", "{1D839205-E433-43C3-B5A5-389DDE6B5C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "johnLib", "..\JohnsLibrary\johnLib\johnLib.csproj", "{BB2723B2-D863-4D55-B955-8F0C6E6E8747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMinerData", "JMinerData\JMinerData.csproj", "{09039DAE-7246-43D7-94A1-B33DACA13A1B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JsQueryInstallation", "JMinerInstallation\JMinerInstallation.vdproj", "{B3CA9F9E-EFF4-48BF-A404-A418D92D0763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D839205-E433-43C3-B5A5-389DDE6B5C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D839205-E433-43C3-B5A5-389DDE6B5C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D839205-E433-43C3-B5A5-389DDE6B5C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D839205-E433-43C3-B5A5-389DDE6B5C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2723B2-D863-4D55-B955-8F0C6E6E8747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2723B2-D863-4D55-B955-8F0C6E6E8747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2723B2-D863-4D55-B955-8F0C6E6E8747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2723B2-D863-4D55-B955-8F0C6E6E8747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09039DAE-7246-43D7-94A1-B33DACA13A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09039DAE-7246-43D7-94A1-B33DACA13A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09039DAE-7246-43D7-94A1-B33DACA13A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09039DAE-7246-43D7-94A1-B33DACA13A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CA9F9E-EFF4-48BF-A404-A418D92D0763}.Debug|Any CPU.ActiveCfg = Debug
+		{B3CA9F9E-EFF4-48BF-A404-A418D92D0763}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

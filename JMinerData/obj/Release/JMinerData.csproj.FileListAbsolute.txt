@@ -1,0 +1,7 @@
+F:\Projects\SQLMiner\JMinerData\bin\Release\JMinerData.dll
+F:\Projects\SQLMiner\JMinerData\bin\Release\JMinerData.pdb
+F:\Projects\SQLMiner\JMinerData\bin\Release\johnLib.dll
+F:\Projects\SQLMiner\JMinerData\bin\Release\johnLib.pdb
+F:\Projects\SQLMiner\JMinerData\obj\Release\ResolveAssemblyReference.cache
+F:\Projects\SQLMiner\JMinerData\obj\Release\JMinerData.dll
+F:\Projects\SQLMiner\JMinerData\obj\Release\JMinerData.pdb
