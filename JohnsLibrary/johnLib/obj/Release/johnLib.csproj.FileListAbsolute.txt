@@ -1,0 +1,5 @@
+J:\Dropbox\software\JohnsLibrary\johnLib\bin\Release\johnLib.dll
+J:\Dropbox\software\JohnsLibrary\johnLib\bin\Release\johnLib.pdb
+J:\Dropbox\software\JohnsLibrary\johnLib\obj\Release\ResolveAssemblyReference.cache
+J:\Dropbox\software\JohnsLibrary\johnLib\obj\Release\johnLib.dll
+J:\Dropbox\software\JohnsLibrary\johnLib\obj\Release\johnLib.pdb

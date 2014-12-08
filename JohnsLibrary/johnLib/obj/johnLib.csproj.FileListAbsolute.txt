@@ -1,0 +1,20 @@
+E:\Projects\johnLib\johnLib\johnLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\johnLib\johnLib\johnLib\bin\Debug\johnLib.dll
+E:\Projects\johnLib\johnLib\johnLib\bin\Debug\johnLib.pdb
+E:\Projects\johnLib\johnLib\johnLib\obj\Debug\johnLib.dll
+E:\Projects\johnLib\johnLib\johnLib\obj\Debug\johnLib.pdb
+D:\My Project\johnLib\johnLib\bin\Debug\johnLib.dll
+D:\My Project\johnLib\johnLib\bin\Debug\johnLib.pdb
+D:\My Project\johnLib\johnLib\obj\Debug\ResolveAssemblyReference.cache
+D:\My Project\johnLib\johnLib\obj\Debug\johnLib.dll
+D:\My Project\johnLib\johnLib\obj\Debug\johnLib.pdb
+D:\johnLib\johnLib\bin\Debug\johnLib.dll
+D:\johnLib\johnLib\bin\Debug\johnLib.pdb
+D:\johnLib\johnLib\obj\Debug\ResolveAssemblyReference.cache
+D:\johnLib\johnLib\obj\Debug\johnLib.dll
+D:\johnLib\johnLib\obj\Debug\johnLib.pdb
+E:\Projects\johnLib (19-03-2010)\johnLib\bin\Debug\johnLib.dll
+E:\Projects\johnLib (19-03-2010)\johnLib\bin\Debug\johnLib.pdb
+E:\Projects\johnLib (19-03-2010)\johnLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\johnLib (19-03-2010)\johnLib\obj\Debug\johnLib.dll
+E:\Projects\johnLib (19-03-2010)\johnLib\obj\Debug\johnLib.pdb

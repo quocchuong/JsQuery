@@ -130,13 +130,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\JohnsLibrary\johnLib\johnLib.csproj">
-      <Project>{BB2723B2-D863-4D55-B955-8F0C6E6E8747}</Project>
-      <Name>johnLib</Name>
-    </ProjectReference>
     <ProjectReference Include="..\JMinerData\JMinerData.csproj">
       <Project>{09039DAE-7246-43D7-94A1-B33DACA13A1B}</Project>
       <Name>JMinerData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JohnsLibrary\johnLib\johnLib.csproj">
+      <Project>{BB2723B2-D863-4D55-B955-8F0C6E6E8747}</Project>
+      <Name>johnLib</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

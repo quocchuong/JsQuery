@@ -1,0 +1,35 @@
+F:\Projects\johnLib (19-03-2010)\johnLib\bin\Debug\johnLib.dll
+F:\Projects\johnLib (19-03-2010)\johnLib\bin\Debug\johnLib.pdb
+F:\Projects\johnLib (19-03-2010)\johnLib\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\johnLib (19-03-2010)\johnLib\obj\Debug\johnLib.dll
+F:\Projects\johnLib (19-03-2010)\johnLib\obj\Debug\johnLib.pdb
+H:\Dropbox\software\JohnsLibrary\johnLib\bin\Debug\johnLib.dll
+H:\Dropbox\software\JohnsLibrary\johnLib\bin\Debug\johnLib.pdb
+H:\Dropbox\software\JohnsLibrary\johnLib\obj\Debug\ResolveAssemblyReference.cache
+H:\Dropbox\software\JohnsLibrary\johnLib\obj\Debug\johnLib.dll
+H:\Dropbox\software\JohnsLibrary\johnLib\obj\Debug\johnLib.pdb
+J:\Dropbox\software\JohnsLibrary\johnLib\obj\Debug\ResolveAssemblyReference.cache
+J:\Dropbox\software\JohnsLibrary\johnLib\obj\Debug\johnLib.dll
+J:\Dropbox\software\JohnsLibrary\johnLib\obj\Debug\johnLib.pdb
+J:\Dropbox\software\JohnsLibrary\johnLib\bin\Debug\johnLib.dll
+J:\Dropbox\software\JohnsLibrary\johnLib\bin\Debug\johnLib.pdb
+H:\Projects\JohnsLibrary\johnLib\bin\Debug\johnLib.dll
+H:\Projects\JohnsLibrary\johnLib\bin\Debug\johnLib.pdb
+H:\Projects\JohnsLibrary\johnLib\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\JohnsLibrary\johnLib\obj\Debug\johnLib.dll
+H:\Projects\JohnsLibrary\johnLib\obj\Debug\johnLib.pdb
+C:\Projects\JohnsLibrary\johnLib\bin\Debug\johnLib.dll
+C:\Projects\JohnsLibrary\johnLib\bin\Debug\johnLib.pdb
+C:\Projects\JohnsLibrary\johnLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\JohnsLibrary\johnLib\obj\Debug\johnLib.dll
+C:\Projects\JohnsLibrary\johnLib\obj\Debug\johnLib.pdb
+F:\Projects\JohnsLibrary\johnLib\bin\Debug\johnLib.dll
+F:\Projects\JohnsLibrary\johnLib\bin\Debug\johnLib.pdb
+F:\Projects\JohnsLibrary\johnLib\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\JohnsLibrary\johnLib\obj\Debug\johnLib.dll
+F:\Projects\JohnsLibrary\johnLib\obj\Debug\johnLib.pdb
+F:\Projects\SQLMiner\JohnsLibrary\johnLib\bin\Debug\johnLib.dll
+F:\Projects\SQLMiner\JohnsLibrary\johnLib\bin\Debug\johnLib.pdb
+F:\Projects\SQLMiner\JohnsLibrary\johnLib\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SQLMiner\JohnsLibrary\johnLib\obj\Debug\johnLib.dll
+F:\Projects\SQLMiner\JohnsLibrary\johnLib\obj\Debug\johnLib.pdb

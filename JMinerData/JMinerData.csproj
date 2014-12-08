@@ -50,7 +50,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\JohnsLibrary\johnLib\johnLib.csproj">
+    <ProjectReference Include="..\JohnsLibrary\johnLib\johnLib.csproj">
       <Project>{BB2723B2-D863-4D55-B955-8F0C6E6E8747}</Project>
       <Name>johnLib</Name>
     </ProjectReference>
